@@ -1,0 +1,23 @@
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\TutUpdater\UpdateMaker\bin\Debug\UpdateMaker.exe.config
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\bin\Debug\UpdateMaker.exe.config
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\bin\Debug\UpdateMaker.exe
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\bin\Debug\UpdateMaker.pdb
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.csprojResolveAssemblyReference.cache
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.Form1.resources
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.Properties.Resources.resources
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.csproj.GenerateResource.Cache
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.exe
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.pdb
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\bin\Debug\TutUpdater.dll
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateMaker\bin\Debug\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\bin\Debug\UpdateMaker.exe.config
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\bin\Debug\UpdateMaker.exe
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\bin\Debug\UpdateMaker.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\bin\Debug\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\bin\Debug\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.csprojResolveAssemblyReference.cache
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.Form1.resources
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.Properties.Resources.resources
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.csproj.GenerateResource.Cache
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.exe
+G:\LauncherProduction\ClassLibrary1\UpdateMaker\obj\Debug\UpdateMaker.pdb

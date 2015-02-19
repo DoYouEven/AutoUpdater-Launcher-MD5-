@@ -1,0 +1,6 @@
+G:\LauncherProduction\ClassLibrary1\TutUpdater\bin\Release\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\TutUpdater\bin\Release\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Release\NxtLauncher.UI.frmUpdater.resources
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Release\NxtLauncher.csproj.GenerateResource.Cache
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Release\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Release\TutUpdater.pdb

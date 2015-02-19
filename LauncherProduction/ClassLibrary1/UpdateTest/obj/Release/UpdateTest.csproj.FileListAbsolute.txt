@@ -1,0 +1,33 @@
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.exe.config
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.exe
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.pdb
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.csprojResolveAssemblyReference.cache
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.Form1.resources
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.Properties.Resources.resources
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.csproj.GenerateResource.Cache
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.exe
+c:\users\doyoueven\documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.pdb
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\bin\Release\TutUpdater.dll
+C:\Users\DoYouEven\Documents\visual studio 2013\Projects\ClassLibrary1\UpdateTest\bin\Release\TutUpdater.pdb
+G:\Launcher\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.exe.config
+G:\Launcher\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.exe
+G:\Launcher\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.pdb
+G:\Launcher\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.exe
+G:\Launcher\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.pdb
+G:\Launcher\ClassLibrary1\UpdateTest\bin\Release\TutUpdater.dll
+G:\Launcher\ClassLibrary1\UpdateTest\bin\Release\TutUpdater.pdb
+G:\Launcher\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.csprojResolveAssemblyReference.cache
+G:\Launcher\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.Form1.resources
+G:\Launcher\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.Properties.Resources.resources
+G:\Launcher\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.csproj.GenerateResource.Cache
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.exe.config
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.exe
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.exe
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Release\UpdateTest.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Release\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Release\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.csprojResolveAssemblyReference.cache
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.Form1.resources
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.Properties.Resources.resources
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Release\UpdateTest.csproj.GenerateResource.Cache

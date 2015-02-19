@@ -1,0 +1,8 @@
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Debug\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\UpdateTest\bin\Debug\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Debug\Launcher.Form1.resources
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Debug\UpdateTest.Properties.Resources.resources
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Debug\Launcher.csproj.GenerateResource.Cache
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Debug\UpdateTest.exe
+G:\LauncherProduction\ClassLibrary1\UpdateTest\obj\Debug\UpdateTest.pdb

@@ -1,0 +1,8 @@
+G:\LauncherProduction\ClassLibrary1\TutUpdater\bin\Debug\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\TutUpdater\bin\Debug\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Debug\TutUpdater.Properties.Resources.resources
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Debug\NxtLauncher.UI.frmUpdater.resources
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Debug\NxtLauncher.csproj.GenerateResource.Cache
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Debug\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Debug\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\TutUpdater\obj\Debug\NxtLauncher.csprojResolveAssemblyReference.cache

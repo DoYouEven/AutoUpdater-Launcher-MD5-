@@ -1,0 +1,11 @@
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\bin\Debug\LauncherV1.0.exe.config
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\bin\Debug\LauncherV1.0.exe
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\bin\Debug\LauncherV1.0.pdb
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\bin\Debug\TutUpdater.dll
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\bin\Debug\TutUpdater.pdb
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\obj\Debug\LauncherV1.0.csprojResolveAssemblyReference.cache
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\obj\Debug\LauncherV1._0.Launcher.resources
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\obj\Debug\LauncherV1._0.Properties.Resources.resources
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\obj\Debug\LauncherV1.0.csproj.GenerateResource.Cache
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\obj\Debug\LauncherV1.0.exe
+G:\LauncherProduction\ClassLibrary1\LauncherV1.0\obj\Debug\LauncherV1.0.pdb
